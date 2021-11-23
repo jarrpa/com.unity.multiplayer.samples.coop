@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "ae9ed5f768a9abca0907919889f055b499f80b3d"
     },
+    "com.simeonradivoev.uni-git": {
+      "version": "https://github.com/simeonradivoev/UniGit.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b2f1b645b59f9ce75e8c0623cb8eb62f4efbe038"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -82,7 +89,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.11",
+      "version": "2.0.12",
       "depth": 0,
       "source": "registry",
       "dependencies": {
